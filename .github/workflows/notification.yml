@@ -1,0 +1,2 @@
+- name: DingTalk Release Notify
+  uses: visiky/dingtalk-release-notify@v-0.1.5
