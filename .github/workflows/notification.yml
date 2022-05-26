@@ -1,4 +1,5 @@
 name: Send dingding notify
+on: [push]
 uses: zcong1993/actions-ding@master
 with:
   dingToken: ${{ secrets.DING_TOKEN }}
